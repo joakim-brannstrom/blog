@@ -4,9 +4,12 @@ The following posts are in reverse chronological order: newest posts are first.
 
 ---
 
-This is a template for new posts.
+### [Parallelise the datalog engine Datacat](https://github.com/joakim-brannstrom/blog/blob/master/posts/2018-07-24.md)
+
+In which our intrepid hero attempts to leverage multicore processors to improve the performance of Datacat. The story is not the most straight forward because it describes the process of optimizing and things that didn't work out as expected. The end result is kind a cute. An improvement but not as much as the heroe had hoped for.
 
 #### [TODO article](https://github.com/joakim-brannstrom/blog/blob/master/posts/2018-05-07.md)
+This is a template for new posts.
 
 An abstract. About 2-3 sentences.
 
