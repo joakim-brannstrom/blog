@@ -8,6 +8,10 @@ The following posts are in reverse chronological order: newest posts are first.
 
 In which our intrepid hero attempts to leverage multicore processors to improve the performance of Datacat. The story descirbe the process and tinking that goes into optimizing `datacat`. Some pitfalls and mistakes that happened along the way. The end result is kind a cute. An improvement but not as much as the hero had hoped for.
 
+Update: Added the post to the D forum.
+Update: Fixed the graspan1 metrics.
+Update: Added a section about the simplified version. Surprising results.
+
 #### [TODO article](https://github.com/joakim-brannstrom/blog/blob/master/posts/2018-05-07.md)
 
 An abstract. About 2-3 sentences.
